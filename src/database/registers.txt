@@ -1,0 +1,5 @@
+{"email": "gustavo@test.com", "date": "23/11/2023", "entries": "08:00", "exits": null}
+{"email": "gustavo@test.com", "date": "23/11/2023", "entries": "", "exits": "18:00"}
+{"email": "cabral@test.com", "date": "20/11/2023", "entries": "08:00", "exits": ""}
+{"email": "cabral@test.com", "date": "20/11/2023", "entries": null, "exits": "18:00"}
+{"email": "fernanda@test.com", "date": "21/11/2023", "entries": "08:00", "exits": ""}
